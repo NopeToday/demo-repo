@@ -1,3 +1,3 @@
-#Leaning git
+# Learning GIT
 
 Some description.
